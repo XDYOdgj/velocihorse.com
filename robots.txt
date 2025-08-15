@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://velocihorse.com/sitemap.xml
